@@ -1,0 +1,19 @@
+#bigheading{
+    color: #00f;
+    font-size: 36px;
+}
+
+#smallheading{
+    color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd{
+    color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
